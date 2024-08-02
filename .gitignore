@@ -1,7 +1,7 @@
 .Rproj.user
 
-datasets\imported_usgs_api
-datasets\eq_parkfield_raw.csv
+datasets/imported_usgs_api
+datasets/eq_parkfield_raw.csv
 
 MinorProject2.Rproj
 
